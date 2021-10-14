@@ -1,6 +1,6 @@
 # screensaver-for-electron
 
-## specification
+## Specification
 
 - set screensaver with choiced static files such as HTML, jpeg and so on.
 
