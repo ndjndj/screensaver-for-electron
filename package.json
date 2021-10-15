@@ -1,0 +1,22 @@
+{
+  "name": "screensaver-for-electron",
+  "version": "1.0.0",
+  "description": "- set screensaver with choiced static files such as HTML, jpeg and so on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndjndj/screensaver-for-electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndjndj/screensaver-for-electron/issues"
+  },
+  "homepage": "https://github.com/ndjndj/screensaver-for-electron#readme",
+  "devDependencies": {
+    "electron": "^15.2.0"
+  }
+}
